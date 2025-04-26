@@ -39,6 +39,6 @@ python predict.py weights/model.pth images/test_snake.jpg
 
 4. **(Optional) Download dataset for re-training**
 
-If you want to retrain the model, download the dataset from:
+- If you want to retrain the model, download the dataset from:
 
     https://drive.google.com/drive/folders/1giBkAJ6lmnlAUI8pSfz79TnTJgi5Tw-q?usp=drive_link
