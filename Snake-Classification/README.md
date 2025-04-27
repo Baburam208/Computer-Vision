@@ -1,4 +1,6 @@
 ## Snake Classification Project
+- Leveraging the power of transfer learning, this project employs VGG16, ResNet50, and DenseNet121 as backbone networks. Each model is fine-tuned with a custom classification head to predict across five distinct classes of snake (king cobra, spectacled cobra, common krait, rat snake, banded krait).
+- We got accuracy of just 72 % on validation set. (Dataset is not so curated so we got not so good result.)
 
 ### Usage
 
